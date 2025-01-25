@@ -1,33 +1,49 @@
 <h1 align="center">Merhaba 👋, Ben Hasan Hüseyin Uyar</h1>
-<h3 align="center">🔒 Siber Güvenlik Tutkunu | 💻 Security Software Engineer</h3>
+<h3 align="center">🔒 Siber Güvenlik Araştırmacısı | 🚀 Turna Cyber Team Lideri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Siber+Güvenlik+Araştırmacısı;Red+Team+%26+Blue+Team;Bug+Bounty+Hunter&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Siber+Güvenlik+Tutkunu;Red+Team+%26+Blue+Team;CTF+Player;3D+Modelleme+Meraklısı&center=true&width=380&height=45">
 </p>
+
+### 👨‍💻 Hakkımda
+
+22 yaşında, Konya'da yaşayan ve Necmettin Erbakan Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim. Yaklaşık 2 yıldır siber güvenlik alanında kendimi geliştiriyor, özellikle etik hackleme ve ağ güvenliği konularında uzmanlaşmaya çalışıyorum.
 
 ### 🎯 Odak Alanlarım
 
 - 🔐 Red Team & Blue Team Operasyonları
 - 🕵️ Etik Hackleme ve Sızma Testleri
-- 📊 Veri Analizi (Google Cloud Platform)
-- 🤖 Discord Bot Geliştirme
+- 📊 Veri Analizi ve Google Cloud Platform
+- 🎨 3D Modelleme ve Animasyon (3ds Max)
+- 🤖 Otomasyon ve Bot Geliştirme
 
 ### 🏆 Başarılar ve Projeler
 
-- 🎯 **Gallipoli Bug Bounty** programında XSS ve NoSQL zafiyetleri keşfi
-- 🔍 **Phishing Algılama Sistemi** (Naive Bayes algoritması)
-- 🛠️ **Katana Tool** - URL test optimizasyon aracı
-- 🤖 **CVE Discord Bot** - Gerçek zamanlı CVE takip sistemi
+- 👑 **Turna Cyber Team** Kurucu ve Takım Lideri
+- 🎯 **Gallipoli Bug Bounty** programında başarılı zafiyet tespitleri
+  - XSS ve NoSQL Enjeksiyon keşifleri
+- 🔍 **Phishing Algılama Sistemi**
+  - Naive Bayes algoritması implementasyonu
+  - Gerçek zamanlı tehdit analizi
+- 🛠️ **Katana Tool** - URL Test Optimizasyon Aracı
+- 🤖 **CVE Discord Bot** - Anlık CVE Takip Sistemi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhuseyinuyar&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhuseyinuyar&theme=radical" alt="Streak Stats" height="165">
 </div>
 
-### 💼 Deneyim
+### 💼 Deneyim ve Katkılar
 
 - 🔧 **Security Software Engineer Intern** - VulnHero
-- 👨‍🏫 **Eğitmen** - NEÜ Siber Güvenlik Topluluğu (Network 101 & Kali Linux 101)
+  - Binlerce CVE raporu analizi
+  - Zafiyet tespiti ve dokümantasyon
+- 👨‍🏫 **Eğitmen** - NEÜ Siber Güvenlik Topluluğu
+  - Network 101
+  - Kali Linux 101
+- 🌍 **CTF Oyuncusu**
+  - Uluslararası yarışmalara aktif katılım
+  - Takım liderliği deneyimi
 
 ### 🛠 Teknoloji Yığınım
 
@@ -35,16 +51,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/>
 </div>
 
-### 📚 Sertifikalar
+### 📚 Eğitim ve Sertifikalar
 
-- 🎓 CCNA 1 (Cisco)
-- 🔐 Priviasecurity Uygulamalı Web Hacking
-- 🛡️ SOC'24 Eğitimi (TSGK)
+- 🎓 Necmettin Erbakan Üniversitesi - Yönetim Bilişim Sistemleri
+- 🔐 CCNA 1 (Cisco)
+- 🛡️ Priviasecurity Uygulamalı Web Hacking
+- 🌐 SOC'24 Eğitimi (TSGK)
+- 💻 BTK Akademi - Uygulamalı Sızma Testi
+- 📱 Udemy - Mobil Güvenlik
+
+### 🎯 Hedefler
+
+- 🔒 ICS/IoT siber güvenlik alanında uzmanlaşmak
+- 🚀 Yeni nesil güvenlik çözümleri geliştirmek
+- 🏆 Uluslararası CTF yarışmalarında derece elde etmek
+- 👥 Siber güvenlik topluluğuna katkıda bulunmak
 
 ### 📫 İletişim
 
@@ -65,6 +92,10 @@
 </div>
 
 <p align="center">
-  <i>"Hayaller 200 OK
-      Hayatlar 404 Not Found."</i>
+  <i>"Güvenlik, teknolojiyle değil zihniyetle başlar."</i>
+</p>
+
+---
+<p align="center">
+  🐺 Türk mitolojisinden ilham alan bir siber güvenlik tutkunu
 </p>
