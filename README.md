@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Hakkımda
 
-22 yaşında, Konya'da yaşayan ve Necmettin Erbakan Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim. Yaklaşık 2 yıldır siber güvenlik alanında kendimi geliştiriyor, özellikle etik hackleme ve ağ güvenliği konularında uzmanlaşmaya çalışıyorum.
+23 yaşında, Necmettin Erbakan Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim. Yaklaşık 3 yıldır siber güvenlik alanında kendimi geliştiriyor, özellikle etik hackleme ve ağ güvenliği konularında uzmanlaşmaya çalışıyorum.
 
 ### 🎯 Odak Alanlarım
 
