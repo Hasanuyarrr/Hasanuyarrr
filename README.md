@@ -1,62 +1,69 @@
-## Hasan Hüseyin Uyar 🔧 | Cybersecurity Enthusiast
+<h1 align="center">Merhaba 👋, Ben Hasan Hüseyin Uyar</h1>
+<h3 align="center">🔒 Siber Güvenlik Tutkunu | 💻 Security Software Engineer</h3>
 
-Merhaba! Ben Hasan Hüseyin Uyar, siber güvenlik alanında uzmanlaşmayı hedefleyen bir teknoloji tutkunu ve geliştiriciyim.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Siber+Güvenlik+Araştırmacısı;Red+Team+%26+Blue+Team;Bug+Bounty+Hunter&center=true&width=380&height=45">
+</p>
 
-### 📊 Hakkımda
+### 🎯 Odak Alanlarım
 
-- **Eğitim:** Necmettin Erbakan Üniversitesi, Yönetim Bilişim Sistemleri
-- **Deneyim:** VulnHero şirketinde Security Software Engineer Intern olarak binlerce CVE raporu analiz ettim.
-- **Uzmanlık Alanları:**
-  - Siber güvenlik (Red Team & Blue Team)
-  - Etik hackleme ve sızma testleri
-  - Veri analizi ve modelleme (Google Cloud Platform)
-  - Discord botları ve otomasyon sistemleri
+- 🔐 Red Team & Blue Team Operasyonları
+- 🕵️ Etik Hackleme ve Sızma Testleri
+- 📊 Veri Analizi (Google Cloud Platform)
+- 🤖 Discord Bot Geliştirme
 
-### ⚔️ Katkılar ve Projeler
+### 🏆 Başarılar ve Projeler
 
-#### Siber Güvenlik:
-- **Gallipoli Bug Bounty Ödülleri:**
-  - XSS ve NoSQL enjeksiyonu gibi zafiyetleri raporladım.
-- **Phishing Algılama Projesi:**
-  - Naive Bayes algoritması ile phishing e-postalarını tespit eden bir sistem geliştiriyorum.
-- **Network 101 ve Kali Linux 101:**
-  - Necmettin Erbakan Üniversitesi Siber Güvenlik Topluluğu ile eğitim verdim.
+- 🎯 **Gallipoli Bug Bounty** programında XSS ve NoSQL zafiyetleri keşfi
+- 🔍 **Phishing Algılama Sistemi** (Naive Bayes algoritması)
+- 🛠️ **Katana Tool** - URL test optimizasyon aracı
+- 🤖 **CVE Discord Bot** - Gerçek zamanlı CVE takip sistemi
 
-#### Yazılım:
-- **Discord Bot:**
-  - Özelleştirilebilir /cve komutuyla güncel CVE bilgilerini getiriyor.
-- **Katana Aracı:**
-  - URL testlerini hızlandıracak çözümler.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhuseyinuyar&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhuseyinuyar&theme=radical" alt="Streak Stats" height="165">
+</div>
 
-#### Çıktılar:
-- [XSS Detaylı Blog Yazısı](https://medium.com/@hhuseyinuyar)
-- [CCNA 1 Sertifikası](https://www.cisco.com/)
+### 💼 Deneyim
 
-### 🔍 Beceriler
+- 🔧 **Security Software Engineer Intern** - VulnHero
+- 👨‍🏫 **Eğitmen** - NEÜ Siber Güvenlik Topluluğu (Network 101 & Kali Linux 101)
 
-- **Programlama:** Python, JavaScript, PHP
-- **Araçlar:** Kali Linux, Metasploit, Wireshark, Nuclei, Burp Suite
-- **Sertifikalar:**
-  - CCNA 1 (Cisco)
-  - Priviasecurity Uygulamalı Web Hacking
-  - SOC’24 Eğitimi (TSGK)
-- **Eğitimler:**
-  - Uygulamalı Sızma Testi Eğitimi (BTK Akademi)
-  - Mobil Uygulamalar ve Telefonlar (Udemy)
+### 🛠 Teknoloji Yığınım
 
-### 💡 Hedeflerim
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/>
+</div>
 
-- ICS/IoT siber güvenlik alanında uzmanlaşmak
-- Yeni nesil phishing ve zararlı yazılım algılama sistemleri geliştirmek
-- CTF (Capture The Flag) etkinliklerinde derece elde etmek
+### 📚 Sertifikalar
 
-### ✨ Bana Ulaşın
+- 🎓 CCNA 1 (Cisco)
+- 🔐 Priviasecurity Uygulamalı Web Hacking
+- 🛡️ SOC'24 Eğitimi (TSGK)
 
-- **E-posta:** [hhuseyinuyar17@gmail.com](mailto:hhuseyinuyar17@gmail.com)
-- **LinkedIn:** [linkedin.com/in/hhuseyinuyar](https://www.linkedin.com/in/hhuseyinuyar)
-- **Medium:** [medium.com/@hhuseyinuyar](https://medium.com/@hhuseyinuyar)
+### 📫 İletişim
 
-İlgi alanlarımı paylaşıyorsanız ya da birlikte çalışmak isterseniz iletişime geçebilirsiniz!
+<div align="left">
+  <a href="mailto:hhuseyinuyar17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/hhuseyinuyar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@hhuseyinuyar">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
 
-> “Güvenlik, teknolojiyle değil zihniyetle başlar.”
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hhuseyinuyar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
+<p align="center">
+  <i>"Güvenlik, teknolojiyle değil zihniyetle başlar."</i>
+</p>
