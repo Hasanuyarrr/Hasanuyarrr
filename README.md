@@ -65,5 +65,6 @@
 </div>
 
 <p align="center">
-  <i>"Güvenlik, teknolojiyle değil zihniyetle başlar."</i>
+  <i>"Hayaller 200 OK
+      Hayatlar 404 Not Found."</i>
 </p>
