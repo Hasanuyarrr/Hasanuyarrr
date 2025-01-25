@@ -2,7 +2,7 @@
 <h3 align="center">🔒 Siber Güvenlik Araştırmacısı | 🚀 Turna Cyber Team Lideri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Siber+Güvenlik+Tutkunu;Red+Team+%26+Blue+Team;CTF+Player;3D+Modelleme+Meraklısı&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Siber+Güvenlik+Tutkunu;Red+Team+%26+Blue+Team;CTF+Player&center=true&width=380&height=45">
 </p>
 
 ### 👨‍💻 Hakkımda
