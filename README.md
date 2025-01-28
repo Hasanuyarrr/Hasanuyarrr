@@ -28,11 +28,12 @@
 - 🛠️ **Katana Tool** - URL Test Optimizasyon Aracı
 - 🤖 **CVE Discord Bot** - Anlık CVE Takip Sistemi
 
+/*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhuseyinuyar&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhuseyinuyar&theme=radical" alt="Streak Stats" height="165">
 </div>
-
+*/
 ### 💼 Deneyim ve Katkılar
 
 - 🔧 **Security Software Engineer Intern** - VulnHero
