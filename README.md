@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Hakkımda
 
-23 yaşında, Necmettin Erbakan Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim. Yaklaşık 3 yıldır siber güvenlik alanında kendimi geliştiriyor, özellikle etik hackleme ve ağ güvenliği konularında uzmanlaşmaya çalışıyorum.
+25 yaşında, Necmettin Erbakan Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim. Yaklaşık 3 yıldır siber güvenlik alanında kendimi geliştiriyor, özellikle etik hackleme ve ağ güvenliği konularında uzmanlaşmaya çalışıyorum.
 
 ### 🎯 Odak Alanlarım
 
